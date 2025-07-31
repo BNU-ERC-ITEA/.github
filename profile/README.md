@@ -1,3 +1,5 @@
 ## About us
 
-bnu-erc-itea
+The Engineering Research Center of Intelligent Technology and Educational Application(hereinafter referred to as the"Engineering Center")was approved for construction in November 2019 and its construction project passed the acceptance inspection by the Ministry of Education in July 2024.The Engineering Center is committed to meeting the major national demand of building a strong educational country.It leverages the advantages and characteristics of Beijing Normal University in the field of education,carries out organized scientific research,investigates key technologies of intelligent education,and develops and promotes intelligent education tools and systems,as well as trains high-level engineering talents.
+
+The Engineering Center focuses on the goal of teacher-centered intelligent education.It researches key technologies such as big data and knowledge engineering,multimodal data understanding,representation and generation,and parallel and high-performance computing.It prioritizes the development of intelligent teaching technologies,intelligent learning technologies,and intelligent evaluation and management technologies,empowering the entire educational process of"preparation-teaching-practice-examination-evaluation-management"with intelligent technologies.
